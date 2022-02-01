@@ -6,3 +6,5 @@ This project is a low-level clone of Amazon. It uses express for frontend & mong
 3. create a .env file.
 4. add your mongoDB connection url there.
 5. type "https://localhost:2323" on web-browser to see the website.
+# link to live project 
+https://apnidukaaaan.herokuapp.com/
